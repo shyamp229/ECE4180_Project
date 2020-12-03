@@ -1,0 +1,6 @@
+Z:\4180\Final_Project\Final_Project_4180\obj\Debug\netcoreapp3.0\Final_Project_4180.csprojAssemblyReference.cache
+Z:\4180\Final_Project\Final_Project_4180\obj\Debug\netcoreapp3.0\Final_Project_4180.Form1.resources
+Z:\4180\Final_Project\Final_Project_4180\obj\Debug\netcoreapp3.0\Final_Project_4180.csproj.GenerateResource.cache
+Z:\4180\Final_Project\Final_Project_4180\obj\Debug\netcoreapp3.0\Final_Project_4180.AssemblyInfoInputs.cache
+Z:\4180\Final_Project\Final_Project_4180\obj\Debug\netcoreapp3.0\Final_Project_4180.AssemblyInfo.cs
+Z:\4180\Final_Project\Final_Project_4180\obj\Debug\netcoreapp3.0\Final_Project_4180.csproj.CoreCompileInputs.cache
