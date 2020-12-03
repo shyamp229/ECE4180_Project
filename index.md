@@ -1,5 +1,5 @@
 # Music Controller and FFT Display
-## Team Members: Annie Luo, Dimitry Jean-Laurent, Emmy Perez, Shyam Patel
+### Team Members: Annie Luo, Dimitry Jean-Laurent, Emmy Perez, Shyam Patel
 
 
 # Project Description
@@ -184,38 +184,10 @@ We have 2 threads in our program. One that that takes in data from the C# GUI an
       } 
 ```
 
-You can use the [editor on GitHub](https://github.com/shyamp229/ECE4180_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Video Demonstration
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
 
-### Markdown
+[![ Grosjean's Accident](http://img.youtube.com/vi/EyTeDaiUL6s/0.jpg)](http://www.youtube.com/watch?v=EyTeDaiUL6s " Grosjean's Accident")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shyamp229/ECE4180_Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
